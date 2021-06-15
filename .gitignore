@@ -1,0 +1,9 @@
+*.zip
+*.7z
+textlog.txt
+.jovianrc
+Untitled.ipynb
+Untitled-Copy1.ipynb
+env/
+.ipynb_checkpoints/
+data/
