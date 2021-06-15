@@ -9,7 +9,8 @@ This is the second project which was pursued as a stepping stone to teach myself
 * Parsed the date column to a datetime column in pandas
 * Sort dataset by saledate
 * Add separate datetime parameters (separatee column for year, month, etc
-**Cleaned/Preprocessing the data by**
+
+**Cleaned/Preprocessed the data by**
 * Converting strings to categories
 * Filling missing values (both numerical and categorical)
 
