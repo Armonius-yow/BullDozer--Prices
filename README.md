@@ -5,7 +5,7 @@ This was a competition on Kaggle titled 'Bluebook for BullDozers'
 Find data here https://www.kaggle.com/c/bluebook-for-bulldozers/data
 
 ### Description
-This is the second project which was pursued as a stepping stone to teach myself how to work with Time Series data. In this project, I
+In this project, I pursued it to teach myself how to work with Time Series data. Here I
 * Parsed the date column to a datetime column in pandas
 * Sort dataset by saledate
 * Add separate datetime parameters (separatee column for year, month, etc
